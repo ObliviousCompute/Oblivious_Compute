@@ -47,13 +47,13 @@ ObliviousCompute
 ├── LICENSE
 ├── NOTICE
 ├── Whitepaper/
-│   └── Oblivious Compute Primitive.pdf
+│   └── Oblivious-Compute-Primitive.pdf
 └── Hydra/
     ├── README.md
     ├── Video/
     │   └── hydra-demo.mp4
     ├── Whitepaper/
-    │   └── Hydra Proofs.pdf
+    │   └── Hydra-Proofs.pdf
     └── src/
         ├── README.md
         ├── hydra-demo.py
