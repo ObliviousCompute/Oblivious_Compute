@@ -9,7 +9,9 @@ OC is a primitive, not a product.
 ---
 ## Start here
 
-If you want to see the idea running live, start with the Hydra demo:
+This repository includes a short write-up (Forward Compute.pdf) that explains the forward-compute model used by Hydra.
+
+If you want to see the idea running live, check out the Hydra demo:
 
 → [`Hydra/`](./Hydra)
 
@@ -40,6 +42,7 @@ This repository separates **theory** from **instantiation**.
 
 ```text
 ObliviousCompute
+├── Forward Compute.pdf
 ├── README.md
 ├── LICENSE
 ├── NOTICE
