@@ -42,20 +42,19 @@ This repository separates **theory** from **instantiation**.
 
 ```text
 ObliviousCompute
+├── Hydra/
+|   ├── Video/
+|   │   └── hydra-demo.mp4
+|   ├── Whitepaper/
+|   │   └── Hydra-Proofs.pdf
+|   └── src/
+|       ├── README.md
+|       ├── hydra-demo.py
+|       └── hydra-skeleton.py
+├── Whitepaper/
+|   └── Oblivious-Compute-Primitive.pdf
 ├── Forward-Compute.pdf
-├── README.md
 ├── LICENSE
 ├── NOTICE
-├── Whitepaper/
-│   └── Oblivious-Compute-Primitive.pdf
-└── Hydra/
-    ├── README.md
-    ├── Video/
-    │   └── hydra-demo.mp4
-    ├── Whitepaper/
-    │   └── Hydra-Proofs.pdf
-    └── src/
-        ├── README.md
-        ├── hydra-demo.py
-        └── hydra-skeleton.py
+└── README.md
 
