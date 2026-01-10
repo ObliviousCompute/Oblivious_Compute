@@ -65,7 +65,7 @@ If the program exits cleanly and reports success, the ObliviousHeart invariants 
 
 ---
 
-## The Core Law (Informal)
+## The Law, Informally
 
 Given:
 - a current state S
