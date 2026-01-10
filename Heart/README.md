@@ -56,9 +56,12 @@ Running it shows, in one execution:
 2) Same-partition contention resolves deterministically by dominance  
 3) Multiple nodes converge to a single final state under shuffled, duplicated, and dropped message delivery  
 
-To run the smoke test, execute the Python file directly from the command line.
+## How to Run
 
-If the test passes, the invariants hold.
+From the folder containing the heart files, run the smoke test directly with Python.
+The program will print a short declaration of what is being demonstrated.
+
+If the program exits cleanly and reports success, the ObliviousHeart invariants hold.
 
 ---
 
