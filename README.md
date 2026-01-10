@@ -11,14 +11,12 @@ OC is a primitive, not a product.
 
 This repository includes a short write-up [Forward-Compute.pdf](Forward-Compute.pdf) that explains the forward-compute model used by Hydra.
 
-If you want to see the idea running live, check out the Hydra demo:
+Computer scientists: start here → The [`Heart/`](./Heart) directory contains The Oblivious Heart—the Hydraplexus in its bare, testable form.
 
-→ [`Hydra/`](./Hydra)
+Anyone else will probably want to go here of you want to check out the fun [`Hydra/`](./Hydra) demo.
 
-It includes:
-- a short screen capture of the system running
-- instructions to run five nodes locally
-- a concrete instantiation of the oblivious compute primitive
+
+- Both links demonstrate a concrete instantiations of the oblivious compute primitive.
 
 ---
 ## What Problem Does OC Address?
