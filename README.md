@@ -11,7 +11,7 @@ OC is a primitive, not a product.
 
 This repository includes a short write-up, [Forward-Compute.pdf](Forward-Compute.pdf), explaining the forward-compute model used by Hydra and the Oblivious Heart.
 
-If you want the law without ceremony, start here → the [`heart/`](./heart/) directory contains **Oblivious Heart**—the Hydraplexus stripped to its bare, testable form, along with its primary smoke test and skeleton.
+If you want the law without ceremony, start here → the [`Heart/`](./Heart/) directory contains **Oblivious Heart**—the Hydraplexus stripped to its bare, testable form, along with its primary smoke test and skeleton.
 
 If you just want to see it move, go here → the [`Hydra/`](./Hydra/) demo.
 
