@@ -10,7 +10,7 @@ This is a **research demo**, not a product.
 
 A short screen capture showing five Hydra nodes converging via erasure.
 
-[▶ Watch the demo video](../Video/hydra-demo.mp4)
+[▶ Watch the demo video](./Video/hydra-demo.mp4)
 
 ---
 
@@ -65,9 +65,9 @@ python3 --version
 
 ## Download
 
-Download all three Python files into a single directory.
+Download all three Python files from src into a single directory.
 
-Navagate to the directory in a terminal.
+Navagate to that directory in a terminal.
 
 Each Hydra node runs in its **own terminal window**.
 
