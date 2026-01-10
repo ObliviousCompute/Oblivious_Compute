@@ -40,7 +40,7 @@ This repository separates **theory** from **instantiation**.
 
 ```text
 ObliviousCompute
-├── Heart
+├── Heart/
 |   ├── ObliviousHeart.py
 |   ├── ObliviousSkeleton.py
 |   ├── ObliviousSmokeTest.py
