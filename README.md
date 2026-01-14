@@ -49,9 +49,9 @@ ObliviousCompute
 |   ├── Video/
 |   │   └── hydra-demo.mp4
 |   ├── src/
-|   |   ├── Hydra.py
-|   |   ├── Plexus.py
-|   |   ├── Lore.py
+|   |   ├── Lore.md
+|   |   ├── hydra.py
+|   |   ├── plexus.py
 |   |   └── Shell.md
 |   └── README.md      
 ├── Whitepaper/
