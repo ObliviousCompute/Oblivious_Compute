@@ -37,7 +37,7 @@ This file is intended to be:
 
 ---
 
-### ObliviousHeartSkeleton.py — *The Essence*
+### ObliviousSkeleton.py — *The Essence*
 
 This file is a non-executable skeleton of the law.
 
