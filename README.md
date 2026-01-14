@@ -52,7 +52,7 @@ ObliviousCompute
 |   |   ├── Lore.md
 |   |   ├── hydra.py
 |   |   ├── plexus.py
-|   |   └── Shell.md
+|   |   └── shell.md
 |   └── README.md      
 ├── Whitepaper/
 |   └── Oblivious-Compute-Primitive.pdf
