@@ -1,4 +1,4 @@
-# The Hydraplexus  
+# The Plexus  
 *An Anatomical Lore of a Memoryless Heart*
 
 Ichor runs through the entire organism. It is electrically conductive and non-retentive. It carries pressure, not memory. What survives circulation becomes truth. What fails is dissolved and forgotten.
