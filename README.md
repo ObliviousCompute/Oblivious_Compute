@@ -9,7 +9,7 @@ OC is a primitive, not a product.
 ---
 ## Start here
 
-This repository includes a few short write-ups;
+This repository includes a set of short write-ups:
 
 [Oblivious-Compute.pdf](./Whitepaper/Oblivious-Compute.pdf) describes the core compute primitive itself.
 
