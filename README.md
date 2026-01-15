@@ -55,7 +55,7 @@ ObliviousCompute
 |   |   └── shell.md
 |   └── README.md      
 ├── Whitepaper/
-|   └── Oblivious-Compute-Primitive.pdf
+|   └── Oblivious-Compute.pdf
 ├── Forward-Compute.pdf
 ├── LICENSE
 ├── NOTICE
