@@ -17,14 +17,15 @@ This repository includes a set of short write-ups:
 
 [Ambient-Compute.pdf](./Fragments/Ambient-Compute.pdf) questions whether consensus and history are foundational at all.
 
-The Code:
+## The Code
 
-If you want the law without ceremony, start here → the [`Heart/`](./Heart/) directory contains **Oblivious Heart(4.5kB)**—the Hydra **Plexus(5.7kB)** code stripped to its bare, testable form, along with its primary smoke test and skeleton.
+The entire oblivious compute primitive fits in a few kilobytes: **Oblivious Heart (~4.5 KB)** defines the core invariant, and the **Hydra Plexus (~5.7 KB)** expresses that same invariant in a networked swarm context.
+
+If you want the law without ceremony, start here → the [`Heart/`](./Heart/) directory. Read the code and run the smoke test.
 
 If you just want to see it move, go here → the [`Hydra/`](./Hydra/) demo.
 
 Both paths are concrete instantiations of the same oblivious compute primitive.
-
 
 ---
 ## What Problem Does OC Address?
