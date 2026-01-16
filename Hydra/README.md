@@ -44,7 +44,7 @@ WSL is **not guaranteed** to work correctly.
 - **Python 3.10 or higher required**
 
 Reason:
-- Uses modern type syntax (`|`, `Dict[str, Any]`)
+- Uses modern type syntax (`Dict[str, Any]`)
 - No backward-compatibility shims are provided
 
 Check your version:
