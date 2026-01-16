@@ -63,7 +63,7 @@ ObliviousCompute
 |   ├── README.md
 |   ├── hydra.py
 |   ├── plexus.py
-|   └── shell.md     
+|   └── shell.py     
 ├── LICENSE
 ├── NOTICE
 └── README.md
