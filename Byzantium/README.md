@@ -6,15 +6,7 @@ This repository contains **a runnable demo**, not the full cryptographic protoco
 
 ---
 
-## Screenshots
-
 ![Title screen](Screenshots/SS1.png)
-
-![Text feed](Screenshots/SS2.png)
-
-![Clear feed and Monuments](Screenshots/SS3.png)
-
-![In-game Lore page](Screenshots/SS4.png)
 
 ---
 
@@ -35,6 +27,10 @@ Those live in the broader *ObliviousCompute* project and will be integrated late
 
 ---
 
+![Text feed](Screenshots/SS2.png)
+
+---
+
 ## What This Is Not
 
 - Not a finished protocol
@@ -43,6 +39,10 @@ Those live in the broader *ObliviousCompute* project and will be integrated late
 - Not a consensus engine
 
 Think of this as **wrapping paper**, not the gift.
+
+---
+
+![Clear feed and Monuments](Screenshots/SS3.png)
 
 ---
 
@@ -63,6 +63,12 @@ Think of this as **wrapping paper**, not the gift.
 - Windows ❌  
 
 (Sorry — not sorry. This demo relies on terminal behavior and ANSI handling that Windows does not provide cleanly.)
+
+---
+
+![In-game Lore page](Screenshots/SS4.png)
+
+---
 
 ### Run
 
