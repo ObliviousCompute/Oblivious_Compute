@@ -68,14 +68,6 @@ Think of this as **wrapping paper**, not the gift.
 
 ![In-game Lore page](Screenshots/SS4.png)
 
----
-
-### Run
-
-From the `Byzantium/` directory:
-
-```bash
-python3 ByzantiumDEMO.py
 
 ---
 
@@ -84,3 +76,12 @@ python3 ByzantiumDEMO.py
 This project is released under the terms of the license included in this repository.
 
 Please review the `LICENSE` file before reusing, modifying, or redistributing any part of this code.
+
+---
+
+### Run
+
+From the `Byzantium/` directory:
+
+```bash
+python3 ByzantiumDEMO.py 
