@@ -27,7 +27,7 @@ Those live in the broader *ObliviousCompute* project and will be integrated late
 
 ---
 
-![Text feed](Screenshots/SS2.png)
+![Clear feed and Monuments](Screenshots/SS3.png)
 
 ---
 
@@ -42,7 +42,7 @@ Think of this as **wrapping paper**, not the gift.
 
 ---
 
-![Clear feed and Monuments](Screenshots/SS3.png)
+![Text feed](Screenshots/SS2.png)
 
 ---
 
