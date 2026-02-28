@@ -70,8 +70,6 @@ ObliviousCompute
 |   ├── ObliviousSmokeTest.py
 |   └── README.md
 ├── Hydra/
-|   ├── Demo.mp4
-|   ├── Lore.pdf
 |   ├── README.md
 |   ├── hydra.py
 |   ├── plexus.py
